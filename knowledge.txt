@@ -1,0 +1,5 @@
+Step 1: Install opencv Library by running following command- pip install opencv-python
+
+Step 2: If you want to detect faces from a video then paste the local directory address inside the brackets of line 7(by removing 0)
+
+Step 3: Relax and run the python code by "python face.py"
